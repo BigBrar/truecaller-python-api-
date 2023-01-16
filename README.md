@@ -1,5 +1,4 @@
 Truecallerpy Phone Number Lookup - 
-
 This is a simple Python script that demonstrates how to use the Truecallerpy library to perform phone number lookups. The script imports the search_phonenumber function from the truecallerpy library and uses it to search for information about a phone number.
 
 
