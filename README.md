@@ -17,15 +17,23 @@ Please note that the script is just a sample code, you can make changes to it as
 Requirements - 
 
 Python 3
+
 Truecallerpy library
+
 Truecaller account
+
 Internet connection
+
 Usage - 
 
 Install the Truecallerpy library using pip pip install truecallerpy
+
 Replace the empty string on line 5 with your authentication ID
+
 Replace the phone number on line 8 with the phone number that you want to search for
+
 Run the script with python scriptname.py
+
 This script is a simple example of how you can use the Truecallerpy library to perform phone number lookups. It is a great starting point for integrating Truecaller functionality into your own projects.
 
 Note - 
